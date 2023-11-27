@@ -1,0 +1,17 @@
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\bin\Debug\net6.0-windows\DigitalImageProcessing.exe
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\bin\Debug\net6.0-windows\DigitalImageProcessing.deps.json
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\bin\Debug\net6.0-windows\DigitalImageProcessing.runtimeconfig.json
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\bin\Debug\net6.0-windows\DigitalImageProcessing.dll
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\bin\Debug\net6.0-windows\DigitalImageProcessing.pdb
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.Form1.resources
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.csproj.GenerateResource.cache
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.AssemblyInfoInputs.cache
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.AssemblyInfo.cs
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.dll
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\refint\DigitalImageProcessing.dll
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.pdb
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.genruntimeconfig.cache
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\ref\DigitalImageProcessing.dll
+C:\Users\Systems\VIsual Studio Projects\repos\DigitalImageProcessing\DigitalImageProcessing\obj\Debug\net6.0-windows\DigitalImageProcessing.Properties.Resources.resources
